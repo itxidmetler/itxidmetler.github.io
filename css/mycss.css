@@ -1,8 +1,10 @@
 body{
-    padding-top:70px;
+    padding-top:0px;
 }
 #navbarBackground
 {
-    background-color: #f7bfb7;
-
+    background-color: rgba(249, 233, 255, 0.51);
+}
+.padd0{
+    padding: 0px;
 }
